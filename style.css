@@ -1,0 +1,27 @@
+.wow {
+  width: 100px;
+}
+
+header, footer {background-color:#F28241; text-align:center;}
+body{background-color:#F2EBDF;color:#73655D;}
+
+#mynavbar {  
+  background-color: #BF5934;
+  border-radius: 5px;
+}
+
+#mynavbar li a {  
+  color: #F2EBDF; 
+}
+
+#mynavbar li a:hover {
+  background-color: #F2EBDF;   
+  color: #BF5934;    
+}
+
+h2{color: #BF5934; text-align:center;margin-top:15%;
+}
+
+#Gallery {
+  background-color:#73655D; text-align:center; align:center;
+}
